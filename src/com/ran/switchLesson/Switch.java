@@ -25,7 +25,7 @@ public class Switch {
 		System.out.println("not reconzied");
 		
 		
-		
+		System.out.println("test1");
 
 		}
 
